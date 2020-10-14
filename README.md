@@ -1,1 +1,1 @@
-just for test
+这是学习GitHub时所用的测试仓库
